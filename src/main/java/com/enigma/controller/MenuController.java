@@ -17,7 +17,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping(UrlMappings.MEMBER_URL)
+@RequestMapping(UrlMappings.MENU_URL)
 public class MenuController {
 
     private ModelMapper modelMapper;
